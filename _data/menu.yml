@@ -4,17 +4,21 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Welcome to Cherif (VikingAlgeria notebook).
+      - title: YouTube.com
+        url: https://youtube.com/vikingalgeria
+      - title: "used by <a href='https://youtube.com/vikingalgeria'>VikingAlgeria </a>"
+    
+  - title: =====================================
 
   - title: all posts
     post_list:
-      limit: 5
+      limit: 10
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+    
+  - title: =====================================
 
   - title: posts by category
     post_list:
@@ -25,7 +29,9 @@ entries:
 
   - title: rss
     url: feed.xml
-  
+    
+  - title: =====================================
+
   - title: another list
     entries:
       - title: with subitems
