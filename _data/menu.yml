@@ -4,16 +4,14 @@
 entries:
   - title: info
     entries:
-      - title: Welcome to Cherif (VikingAlgeria) notebook.
-      - title: YouTube.com
-        url: https://youtube.com/vikingalgeria
-      - title: "used by <a href='https://youtube.com/vikingalgeria'>VikingAlgeria </a>"
+      - title: "Welcome to Cherif (<a href='https://youtube.com/vikingalgeria'>VikingAlgeria</a>) notebook."
+      - title: "used by <a href='https://youtube.com/vikingalgeria'>VikingAlgeria</a>"
     
   - title: =====================================
 
   - title: all posts
     post_list:
-      limit: 10
+      limit: 3
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
