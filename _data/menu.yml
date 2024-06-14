@@ -7,7 +7,7 @@ entries:
       - title: "Welcome to Cherif (<a href='https://youtube.com/vikingalgeria'>VikingAlgeria</a>) notebook."
       - title: "used by <a href='https://youtube.com/vikingalgeria'>Mr.CHERIF</a>"
     
-  - title: =====================================
+  - title: ---
 
   - title: all posts
     post_list:
@@ -16,16 +16,16 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
     
-  - title: =====================================
+  - title: ---
 
-  - title: posts by category
+  - title: ALL GifWithSound LISTS
     post_list:
       category: lists
       show_more: true
       show_more_text: See more posts...
       show_more_url: lists-archive.html
 
-  - title: =====================================
+  - title: ---
   - title: rss
     url: feed.xml
   - title: another list
