@@ -20,10 +20,10 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: lists
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: lists-archive.html
 
   - title: =====================================
   - title: rss
