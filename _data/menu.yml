@@ -26,8 +26,6 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: pin-archive.html
-    
-  - title: ---
 
   - title: rss feed
     url: feed.xml
