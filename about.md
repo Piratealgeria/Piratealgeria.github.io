@@ -5,4 +5,7 @@ title: About
 
 This is an example page!
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+RATATATAAAA welcome to VA page
+
+
+![just an image](https://i.pinimg.com/736x/48/14/0c/48140c639f18073c918720620ad65ef3.jpg)
