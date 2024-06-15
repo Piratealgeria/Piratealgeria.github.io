@@ -8,6 +8,13 @@ entries:
       - title: "used by <a href='https://youtube.com/vikingalgeria'>Mr.CHERIF</a>"
     
   - title: ---
+  - title: Pinned Post
+    post_list:
+      limit: 5
+      category: pin
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: pin-archive.html
 
   - title: all posts
     post_list:
@@ -26,6 +33,8 @@ entries:
       show_more_text: See more posts...
       show_more_url: lists-archive.html
 
+  ---
+
   - title: ---
   - title: rss feed
     url: feed.xml
@@ -36,6 +45,6 @@ entries:
           - title: with subsubitems
           - title: example page
             url: about
-  - title: PRO TIP
+  - title: 
     entries:
       - title: to edit this menu, edit _data/menu.yml file
