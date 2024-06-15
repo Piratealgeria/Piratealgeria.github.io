@@ -31,13 +31,13 @@ entries:
 
   - title: rss feed
     url: feed.xml
-  - title: another list
+  - title: useful links
     entries:
-      - title: with subitems
+      - title: from this website
         entries:
-          - title: with subsubitems
-          - title: example page
+          - title: about page
             url: about
-  - title: 
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: Odysee
+        url: https://odysee.com/@vikingalgeria
+      - title: youtube
+        url: https://youtube.com/vikingalgeria
