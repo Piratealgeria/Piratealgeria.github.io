@@ -16,16 +16,9 @@ entries:
       category: lists
       show_more: true
       show_more_text: See more posts...
-      show_more_url: lists-archive.html
+      show_more_url: archive.html
 
   - title: ---
-  - title: Pinned Post
-    post_list:
-      limit: 5
-      category: pin
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: pin-archive.html
 
   - title: rss feed
     url: feed.xml
