@@ -1,7 +1,7 @@
 title: Mr.CHERIF page! # name of the site
 author: mr.cherif # name of site's author
-email: noemail.@123.xyz # email of site's author
-url: https://riggraz.dev # root address of the site
+email: contact@mrcherif.party # email of site's author
+url: https://list.mrcherif.party/ # root address of the site
 baseurl: "/mrcherif" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Just keeping a record of my lists.
